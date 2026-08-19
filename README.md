@@ -2,6 +2,9 @@ Step 1: Signup for your workshop org
 ------------------------------------
 https://orgfarm.salesforce.com/signup 
 
+Enter Sign up code: ZPA4MB9N
+
+
 
 Step 3: Open the Course Guide
 -----------------------------
